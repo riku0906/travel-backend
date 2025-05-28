@@ -1,0 +1,73 @@
+[
+    {
+        "customer_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "+12345678901",
+        "address": "123 Main St, City, Country",
+        "created_at": "2023-01-01T00:00:00",
+        "updated_at": "2023-01-01T00:00:00",
+        "is_active": true
+    },
+    {
+        "customer_id": "4fa85f64-5717-4562-b3fc-2c963f66afa7",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "phone": "+19876543210",
+        "address": "456 Oak St, City, Country",
+        "created_at": "2023-01-02T00:00:00",
+        "updated_at": "2023-01-02T00:00:00",
+        "is_active": true
+    },
+    {
+        "customer_id": "5fa85f64-5717-4562-b3fc-2c963f66afa8",
+        "name": "Bob Johnson",
+        "email": "bob.johnson@example.com",
+        "phone": "+17890123456",
+        "address": "789 Pine St, Other City, Country",
+        "created_at": "2023-01-03T00:00:00",
+        "updated_at": "2023-01-03T00:00:00",
+        "is_active": true
+    },
+    {
+        "customer_id": "6fa85f64-5717-4562-b3fc-2c963f66afa9",
+        "name": "Alice Williams",
+        "email": "alice.williams@example.com",
+        "phone": "+14567890123",
+        "address": "101 Maple Ave, Another City, Country",
+        "created_at": "2023-01-04T00:00:00",
+        "updated_at": "2023-01-04T00:00:00",
+        "is_active": true
+    },
+    {
+        "customer_id": "7fa85f64-5717-4562-b3fc-2c963f66afaa",
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
+        "phone": "+12345098765",
+        "address": null,
+        "created_at": "2023-01-05T00:00:00",
+        "updated_at": "2023-01-05T00:00:00",
+        "is_active": true
+    },
+    {
+        "customer_id": "8fa85f64-5717-4562-b3fc-2c963f66afab",
+        "name": "Diana Miller",
+        "email": "diana.miller@example.com",
+        "phone": null,
+        "address": "202 Cedar Blvd, City, Country",
+        "created_at": "2023-01-06T00:00:00",
+        "updated_at": "2023-01-06T00:00:00",
+        "is_active": true
+    },
+    {
+        "customer_id": "9fa85f64-5717-4562-b3fc-2c963f66afac",
+        "name": "Edward Davis",
+        "email": "edward.davis@example.com",
+        "phone": "+13456789012",
+        "address": "303 Birch St, City, Country",
+        "created_at": "2023-01-07T00:00:00",
+        "updated_at": "2023-01-07T00:00:00",
+        "is_active": false,
+        "deleted_at": "2023-02-01T00:00:00"
+    }
+]
