@@ -1,1 +1,86 @@
 .venv/*
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.idea/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# pytest
+.pytest_cache/
+tests/test_data/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Pyright
+pyrightconfig.json
+
+# Pydantic compiled schema cache
+*.schema.json
+
+# FastAPI auto docs cache (if any)
+docs/_build/
+
+# VS Code / JetBrains IDEs
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local runtime files
+*.db
+*.sqlite3
+instance/
+*.pid
+
+# Environment variables
+.env
+.env.*
+
+# Local JSON mock data or persistence files
+app/data/*.json
+!app/data/.gitkeep
+
+# Generated OpenAPI docs or schema
+openapi.json
+schema.json
