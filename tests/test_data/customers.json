@@ -1,0 +1,53 @@
+[
+  {
+    "customer_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "+12345678901",
+    "address": "123 Main St, Anytown, USA",
+    "created_at": "2023-01-01T00:00:00",
+    "updated_at": "2023-01-01T00:00:00",
+    "is_active": true
+  },
+  {
+    "customer_id": "4fa85f64-5717-4562-b3fc-2c963f66afa7",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "phone": "+19876543210",
+    "address": "456 Oak St, Somecity, USA",
+    "created_at": "2023-01-02T00:00:00",
+    "updated_at": "2023-01-02T00:00:00",
+    "is_active": true
+  },
+  {
+    "customer_id": "5fa85f64-5717-4562-b3fc-2c963f66afa8",
+    "name": "Robert Johnson",
+    "email": "robert.johnson@example.com",
+    "phone": "+13334445555",
+    "address": "789 Pine St, Otherville, USA",
+    "created_at": "2023-01-03T00:00:00",
+    "updated_at": "2023-01-03T00:00:00",
+    "is_active": true
+  },
+  {
+    "customer_id": "6fa85f64-5717-4562-b3fc-2c963f66afa9",
+    "name": "Emily Davis",
+    "email": "emily.davis@example.com",
+    "phone": "+14445556666",
+    "address": "101 Maple St, Lasttown, USA",
+    "created_at": "2023-01-04T00:00:00",
+    "updated_at": "2023-01-04T00:00:00", 
+    "is_active": true
+  },
+  {
+    "customer_id": "7fa85f64-5717-4562-b3fc-2c963f66afaa",
+    "name": "Michael Wilson",
+    "email": "michael.wilson@example.com",
+    "phone": "+15556667777",
+    "address": "202 Cedar St, Somewhere, USA",
+    "created_at": "2023-01-05T00:00:00", 
+    "updated_at": "2023-01-05T00:00:00",
+    "is_active": false,
+    "deleted_at": "2023-02-01T00:00:00"
+  }
+]
